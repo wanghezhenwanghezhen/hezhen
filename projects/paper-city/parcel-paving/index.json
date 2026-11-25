@@ -1,0 +1,40 @@
+{
+  "parcels": 190,
+  "byAssignment": {
+    "class-and-footprint": 147,
+    "source-name": 43
+  },
+  "byKind": {
+    "landmark": 53,
+    "park": 36,
+    "residential": 41,
+    "shop": 60
+  },
+  "materialRecipes": 58,
+  "styles": {
+    "grass:GRASS_D1_P20@1": 4,
+    "tile:G1@1": 7,
+    "tile:A@1": 5,
+    "grass:GRASS_A1_P20@1": 8,
+    "grass:GRASS_C1_P20@1": 7,
+    "tile:C@1": 6,
+    "tile:S2@1": 2,
+    "grass:GRASS_B1_P20@1": 4,
+    "tile:G3@1": 4,
+    "water:WATER_B2_P34@1": 2,
+    "tile:B@1": 4,
+    "tile:G2@1": 2,
+    "tile:S1@1": 1,
+    "water:WATER_A2_P34@1": 2
+  },
+  "rasterSize": [
+    2216,
+    2846
+  ],
+  "source": "R28 frozen game, identical R27 terrain registry",
+  "gridPitchPx": 29.73,
+  "sampling": "source physical period, 2 image pixels per input pixel",
+  "recoveredAreas": "unmapped or non-paving samples extended by nearest supported ground within the same source site",
+  "groundSha256": "7e910897b31664edac04c4ebd6621eafdb48aaa736776a692b8913afadb9b316",
+  "roughnessSha256": "b5f75d217b2a8c944f5c7ac018d262196ccb82a1dfd04f37e9c536c219d74dfe"
+}

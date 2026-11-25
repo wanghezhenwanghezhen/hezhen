@@ -1,0 +1,6800 @@
+{
+  "width": 1108,
+  "height": 1423,
+  "coordinateSpace": "image-px",
+  "grid": {
+    "originX": 18.56,
+    "originY": 18.56,
+    "pitch": 29.73,
+    "originPx": [
+      18.56,
+      18.56
+    ],
+    "cellPx": 29.73,
+    "fineCellPx": 5.946,
+    "columnsFine": 180,
+    "rowsFine": 232
+  },
+  "sourceImageSHA256": "7cf4a3fd16c00e45a6709c918b3898e44c3b4aa45aca2c27cd62eab45a9b800d",
+  "source5313": {
+    "id": "layout-3d8ddb9d-9418-4d46-b386-b6828c1e5592",
+    "revision": 1,
+    "hash": "822835aa20fddaf1db816b62ef05ded5983c167840f49e036f7b685e33906f85"
+  },
+  "parcels": [
+    {
+      "id": "fig1-p001",
+      "label": "长城",
+      "kind": "landmark",
+      "x": 125.59,
+      "y": 72.07,
+      "w": 202.16,
+      "h": 95.14,
+      "fineBounds": [
+        18,
+        9,
+        52,
+        25
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p002",
+      "label": "十三陵",
+      "kind": "landmark",
+      "x": 327.75,
+      "y": 72.07,
+      "w": 154.6,
+      "h": 95.14,
+      "fineBounds": [
+        52,
+        9,
+        78,
+        25
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p003",
+      "label": null,
+      "kind": "park",
+      "x": 482.35,
+      "y": 72.07,
+      "w": 249.73,
+      "h": 95.14,
+      "fineBounds": [
+        78,
+        9,
+        120,
+        25
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p004",
+      "label": "温榆河公园",
+      "kind": "park",
+      "x": 732.08,
+      "y": 72.07,
+      "w": 65.41,
+      "h": 112.97,
+      "fineBounds": [
+        120,
+        9,
+        131,
+        28
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p005",
+      "label": "首都机场",
+      "kind": "landmark",
+      "x": 797.49,
+      "y": 72.07,
+      "w": 202.16,
+      "h": 112.97,
+      "fineBounds": [
+        131,
+        9,
+        165,
+        28
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p006",
+      "label": "香山",
+      "kind": "park",
+      "x": 24.51,
+      "y": 167.21,
+      "w": 231.89,
+      "h": 95.14,
+      "fineBounds": [
+        1,
+        25,
+        40,
+        41
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p007",
+      "label": null,
+      "kind": "residential",
+      "x": 256.4,
+      "y": 167.21,
+      "w": 178.38,
+      "h": 59.46,
+      "fineBounds": [
+        40,
+        25,
+        70,
+        35
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p008",
+      "label": null,
+      "kind": "park",
+      "x": 464.51,
+      "y": 196.94,
+      "w": 237.84,
+      "h": 59.46,
+      "fineBounds": [
+        75,
+        30,
+        115,
+        40
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p009",
+      "label": "必达快递站",
+      "kind": "shop",
+      "x": 732.08,
+      "y": 196.94,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        120,
+        30,
+        130,
+        40
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p010",
+      "label": "望京SOHO",
+      "kind": "landmark",
+      "x": 797.49,
+      "y": 196.94,
+      "w": 101.08,
+      "h": 83.24,
+      "fineBounds": [
+        131,
+        30,
+        148,
+        44
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p011",
+      "label": "798艺术区",
+      "kind": "landmark",
+      "x": 904.51,
+      "y": 196.94,
+      "w": 83.24,
+      "h": 83.24,
+      "fineBounds": [
+        149,
+        30,
+        163,
+        44
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p012",
+      "label": "751园区",
+      "kind": "landmark",
+      "x": 993.7,
+      "y": 196.94,
+      "w": 89.19,
+      "h": 53.51,
+      "fineBounds": [
+        164,
+        30,
+        179,
+        39
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p013",
+      "label": "圆明园",
+      "kind": "park",
+      "x": 256.4,
+      "y": 226.67,
+      "w": 89.19,
+      "h": 77.3,
+      "fineBounds": [
+        40,
+        35,
+        55,
+        48
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p014",
+      "label": "清华大学",
+      "kind": "landmark",
+      "x": 345.59,
+      "y": 226.67,
+      "w": 89.19,
+      "h": 77.3,
+      "fineBounds": [
+        55,
+        35,
+        70,
+        48
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p015",
+      "label": "奥林匹克塔",
+      "kind": "landmark",
+      "x": 464.51,
+      "y": 256.4,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        75,
+        40,
+        90,
+        50
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p016",
+      "label": "中国科技馆",
+      "kind": "landmark",
+      "x": 583.43,
+      "y": 256.4,
+      "w": 118.92,
+      "h": 59.46,
+      "fineBounds": [
+        95,
+        40,
+        115,
+        50
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p017",
+      "label": null,
+      "kind": "residential",
+      "x": 732.08,
+      "y": 256.4,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        120,
+        40,
+        130,
+        50
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p018",
+      "label": "艺术广场",
+      "kind": "park",
+      "x": 993.7,
+      "y": 256.4,
+      "w": 89.19,
+      "h": 53.51,
+      "fineBounds": [
+        164,
+        40,
+        179,
+        49
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p019",
+      "label": "颐和园",
+      "kind": "park",
+      "x": 24.51,
+      "y": 262.35,
+      "w": 231.89,
+      "h": 136.76,
+      "fineBounds": [
+        1,
+        41,
+        40,
+        64
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p020",
+      "label": "中央美术学院",
+      "kind": "landmark",
+      "x": 797.49,
+      "y": 286.13,
+      "w": 101.08,
+      "h": 59.46,
+      "fineBounds": [
+        131,
+        45,
+        148,
+        55
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p021",
+      "label": "工业厂房",
+      "kind": "residential",
+      "x": 910.46,
+      "y": 286.13,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        45,
+        160,
+        55
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p022",
+      "label": "北京大学",
+      "kind": "landmark",
+      "x": 256.4,
+      "y": 303.97,
+      "w": 89.19,
+      "h": 41.62,
+      "fineBounds": [
+        40,
+        48,
+        55,
+        55
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p023",
+      "label": null,
+      "kind": "shop",
+      "x": 345.59,
+      "y": 303.97,
+      "w": 47.57,
+      "h": 29.73,
+      "fineBounds": [
+        55,
+        48,
+        63,
+        53
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p024",
+      "label": null,
+      "kind": "shop",
+      "x": 393.16,
+      "y": 303.97,
+      "w": 41.62,
+      "h": 29.73,
+      "fineBounds": [
+        63,
+        48,
+        70,
+        53
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p025",
+      "label": "水立方",
+      "kind": "landmark",
+      "x": 464.51,
+      "y": 315.86,
+      "w": 107.03,
+      "h": 59.46,
+      "fineBounds": [
+        75,
+        50,
+        93,
+        60
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p026",
+      "label": "鸟巢",
+      "kind": "landmark",
+      "x": 601.27,
+      "y": 315.86,
+      "w": 101.08,
+      "h": 59.46,
+      "fineBounds": [
+        98,
+        50,
+        115,
+        60
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p027",
+      "label": "Teddy宠物医院",
+      "kind": "shop",
+      "x": 732.08,
+      "y": 315.86,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        120,
+        50,
+        130,
+        55
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p028",
+      "label": "1802维修工坊",
+      "kind": "shop",
+      "x": 969.92,
+      "y": 315.86,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        160,
+        50,
+        170,
+        55
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p029",
+      "label": null,
+      "kind": "park",
+      "x": 345.59,
+      "y": 333.7,
+      "w": 89.19,
+      "h": 11.89,
+      "fineBounds": [
+        55,
+        53,
+        70,
+        55
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p030",
+      "label": null,
+      "kind": "residential",
+      "x": 315.86,
+      "y": 375.32,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        50,
+        60,
+        60,
+        70
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p031",
+      "label": null,
+      "kind": "park",
+      "x": 381.27,
+      "y": 375.32,
+      "w": 202.16,
+      "h": 29.73,
+      "fineBounds": [
+        61,
+        60,
+        95,
+        65
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p032",
+      "label": "社交花园-小广场",
+      "kind": "park",
+      "x": 601.27,
+      "y": 375.32,
+      "w": 178.38,
+      "h": 29.73,
+      "fineBounds": [
+        98,
+        60,
+        128,
+        65
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p033",
+      "label": null,
+      "kind": "shop",
+      "x": 779.65,
+      "y": 375.32,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        128,
+        60,
+        138,
+        70
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p034",
+      "label": null,
+      "kind": "park",
+      "x": 839.11,
+      "y": 375.32,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        138,
+        60,
+        148,
+        70
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p035",
+      "label": "Kake甜品店",
+      "kind": "shop",
+      "x": 910.46,
+      "y": 375.32,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        60,
+        160,
+        70
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p036",
+      "label": "MEMO文创",
+      "kind": "shop",
+      "x": 999.65,
+      "y": 375.32,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        165,
+        60,
+        175,
+        70
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p037",
+      "label": null,
+      "kind": "shop",
+      "x": 286.13,
+      "y": 381.27,
+      "w": 29.73,
+      "h": 53.51,
+      "fineBounds": [
+        45,
+        61,
+        50,
+        70
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p038",
+      "label": "晚安旅馆",
+      "kind": "shop",
+      "x": 375.32,
+      "y": 405.05,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        60,
+        65,
+        70,
+        70
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p039",
+      "label": null,
+      "kind": "residential",
+      "x": 434.78,
+      "y": 405.05,
+      "w": 77.3,
+      "h": 29.73,
+      "fineBounds": [
+        70,
+        65,
+        83,
+        70
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p040",
+      "label": "麦可乐西式快餐店",
+      "kind": "shop",
+      "x": 512.08,
+      "y": 405.05,
+      "w": 71.35,
+      "h": 29.73,
+      "fineBounds": [
+        83,
+        65,
+        95,
+        70
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p041",
+      "label": "引力健身房",
+      "kind": "shop",
+      "x": 601.27,
+      "y": 405.05,
+      "w": 71.35,
+      "h": 29.73,
+      "fineBounds": [
+        98,
+        65,
+        110,
+        70
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p042",
+      "label": null,
+      "kind": "residential",
+      "x": 672.62,
+      "y": 405.05,
+      "w": 107.03,
+      "h": 29.73,
+      "fineBounds": [
+        110,
+        65,
+        128,
+        70
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p043",
+      "label": "西外休闲广场",
+      "kind": "park",
+      "x": 24.51,
+      "y": 416.94,
+      "w": 112.97,
+      "h": 53.51,
+      "fineBounds": [
+        1,
+        67,
+        20,
+        76
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p044",
+      "label": "996便利店",
+      "kind": "shop",
+      "x": 167.21,
+      "y": 434.78,
+      "w": 89.19,
+      "h": 23.78,
+      "fineBounds": [
+        25,
+        70,
+        40,
+        74
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p045",
+      "label": "亮马河",
+      "kind": "park",
+      "x": 910.46,
+      "y": 440.73,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        150,
+        71,
+        160,
+        76
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p046",
+      "label": "西直门教堂",
+      "kind": "landmark",
+      "x": 167.21,
+      "y": 458.56,
+      "w": 89.19,
+      "h": 35.68,
+      "fineBounds": [
+        25,
+        74,
+        40,
+        80
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p047",
+      "label": "滨水绿地",
+      "kind": "park",
+      "x": 999.65,
+      "y": 458.56,
+      "w": 59.46,
+      "h": 17.84,
+      "fineBounds": [
+        165,
+        74,
+        175,
+        77
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p048",
+      "label": null,
+      "kind": "residential",
+      "x": 315.86,
+      "y": 464.51,
+      "w": 53.51,
+      "h": 29.73,
+      "fineBounds": [
+        50,
+        75,
+        59,
+        80
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p049",
+      "label": null,
+      "kind": "residential",
+      "x": 369.37,
+      "y": 464.51,
+      "w": 83.24,
+      "h": 59.46,
+      "fineBounds": [
+        59,
+        75,
+        73,
+        85
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p050",
+      "label": "什刹海",
+      "kind": "park",
+      "x": 452.62,
+      "y": 464.51,
+      "w": 41.62,
+      "h": 59.46,
+      "fineBounds": [
+        73,
+        75,
+        80,
+        85
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p051",
+      "label": "钟鼓楼胡同居住组团",
+      "kind": "residential",
+      "x": 494.24,
+      "y": 464.51,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        80,
+        75,
+        90,
+        85
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p052",
+      "label": "钟楼",
+      "kind": "landmark",
+      "x": 553.7,
+      "y": 464.51,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        90,
+        75,
+        100,
+        80
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p053",
+      "label": "996便利店",
+      "kind": "shop",
+      "x": 613.16,
+      "y": 464.51,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        100,
+        75,
+        110,
+        80
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p054",
+      "label": null,
+      "kind": "residential",
+      "x": 672.62,
+      "y": 464.51,
+      "w": 107.03,
+      "h": 59.46,
+      "fineBounds": [
+        110,
+        75,
+        128,
+        85
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p055",
+      "label": "雍和宫",
+      "kind": "landmark",
+      "x": 779.65,
+      "y": 464.51,
+      "w": 101.08,
+      "h": 29.73,
+      "fineBounds": [
+        128,
+        75,
+        145,
+        80
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p056",
+      "label": "LaRopa服装店",
+      "kind": "shop",
+      "x": 910.46,
+      "y": 470.46,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        150,
+        76,
+        160,
+        81
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p057",
+      "label": "公益绿带",
+      "kind": "park",
+      "x": 24.51,
+      "y": 476.4,
+      "w": 112.97,
+      "h": 41.62,
+      "fineBounds": [
+        1,
+        77,
+        20,
+        84
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p058",
+      "label": "朝阳公园",
+      "kind": "park",
+      "x": 999.65,
+      "y": 488.29,
+      "w": 59.46,
+      "h": 107.03,
+      "fineBounds": [
+        165,
+        79,
+        175,
+        97
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p059",
+      "label": null,
+      "kind": "shop",
+      "x": 315.86,
+      "y": 494.24,
+      "w": 53.51,
+      "h": 29.73,
+      "fineBounds": [
+        50,
+        80,
+        59,
+        85
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p060",
+      "label": "鼓楼",
+      "kind": "landmark",
+      "x": 553.7,
+      "y": 494.24,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        90,
+        80,
+        100,
+        85
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p061",
+      "label": "特色休闲广场",
+      "kind": "park",
+      "x": 613.16,
+      "y": 494.24,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        100,
+        80,
+        110,
+        85
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p062",
+      "label": "必达快递站",
+      "kind": "shop",
+      "x": 821.27,
+      "y": 494.24,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        135,
+        80,
+        145,
+        85
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p063",
+      "label": "动物园",
+      "kind": "park",
+      "x": 167.21,
+      "y": 500.19,
+      "w": 89.19,
+      "h": 35.68,
+      "fineBounds": [
+        25,
+        81,
+        40,
+        87
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p064",
+      "label": "三里屯太古里",
+      "kind": "landmark",
+      "x": 910.46,
+      "y": 500.19,
+      "w": 59.46,
+      "h": 35.68,
+      "fineBounds": [
+        150,
+        81,
+        160,
+        87
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p065",
+      "label": null,
+      "kind": "shop",
+      "x": 54.24,
+      "y": 523.97,
+      "w": 83.24,
+      "h": 29.73,
+      "fineBounds": [
+        6,
+        85,
+        20,
+        90
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p066",
+      "label": "北京动物园",
+      "kind": "park",
+      "x": 167.21,
+      "y": 541.81,
+      "w": 89.19,
+      "h": 35.68,
+      "fineBounds": [
+        25,
+        88,
+        40,
+        94
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p067",
+      "label": "Rosa花店",
+      "kind": "shop",
+      "x": 910.46,
+      "y": 547.75,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        150,
+        89,
+        160,
+        94
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p068",
+      "label": null,
+      "kind": "residential",
+      "x": 24.51,
+      "y": 553.7,
+      "w": 112.97,
+      "h": 89.19,
+      "fineBounds": [
+        1,
+        90,
+        20,
+        105
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p069",
+      "label": null,
+      "kind": "landmark",
+      "x": 286.13,
+      "y": 553.7,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        45,
+        90,
+        55,
+        95
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p070",
+      "label": "北海公园",
+      "kind": "park",
+      "x": 345.59,
+      "y": 553.7,
+      "w": 118.92,
+      "h": 59.46,
+      "fineBounds": [
+        55,
+        90,
+        75,
+        100
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p071",
+      "label": "面面俱到面馆",
+      "kind": "shop",
+      "x": 464.51,
+      "y": 553.7,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        75,
+        90,
+        85,
+        95
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p072",
+      "label": "辰光早点铺",
+      "kind": "shop",
+      "x": 523.97,
+      "y": 553.7,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        85,
+        90,
+        95,
+        95
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p073",
+      "label": "万宁桥",
+      "kind": "landmark",
+      "x": 583.43,
+      "y": 553.7,
+      "w": 29.73,
+      "h": 29.73,
+      "fineBounds": [
+        95,
+        90,
+        100,
+        95
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p074",
+      "label": null,
+      "kind": "residential",
+      "x": 613.16,
+      "y": 553.7,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        100,
+        90,
+        115,
+        100
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p075",
+      "label": "孔庙",
+      "kind": "landmark",
+      "x": 702.35,
+      "y": 553.7,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        115,
+        90,
+        130,
+        95
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p076",
+      "label": "青禾菜市场",
+      "kind": "shop",
+      "x": 791.54,
+      "y": 553.7,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        130,
+        90,
+        140,
+        95
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p077",
+      "label": "北京天文馆",
+      "kind": "landmark",
+      "x": 167.21,
+      "y": 577.48,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        25,
+        94,
+        40,
+        99
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p078",
+      "label": "Rosa花店",
+      "kind": "shop",
+      "x": 286.13,
+      "y": 583.43,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        45,
+        95,
+        55,
+        100
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p079",
+      "label": "共享小院",
+      "kind": "park",
+      "x": 464.51,
+      "y": 583.43,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        75,
+        95,
+        90,
+        100
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p080",
+      "label": "MEMO文创",
+      "kind": "shop",
+      "x": 553.7,
+      "y": 583.43,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        90,
+        95,
+        100,
+        100
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p081",
+      "label": "国子监",
+      "kind": "landmark",
+      "x": 702.35,
+      "y": 583.43,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        115,
+        95,
+        130,
+        100
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p082",
+      "label": "滨水绿地",
+      "kind": "park",
+      "x": 791.54,
+      "y": 583.43,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        130,
+        95,
+        145,
+        100
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p083",
+      "label": "工人体育场",
+      "kind": "landmark",
+      "x": 910.46,
+      "y": 589.38,
+      "w": 59.46,
+      "h": 23.78,
+      "fineBounds": [
+        150,
+        96,
+        160,
+        100
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p084",
+      "label": "朝阳公园入口广场",
+      "kind": "park",
+      "x": 999.65,
+      "y": 601.27,
+      "w": 59.46,
+      "h": 11.89,
+      "fineBounds": [
+        165,
+        98,
+        175,
+        100
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p085",
+      "label": "央视总部大楼",
+      "kind": "landmark",
+      "x": 999.65,
+      "y": 613.16,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        165,
+        100,
+        175,
+        110
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p086",
+      "label": "中央广播电视塔",
+      "kind": "landmark",
+      "x": 24.51,
+      "y": 642.89,
+      "w": 112.97,
+      "h": 59.46,
+      "fineBounds": [
+        1,
+        105,
+        20,
+        115
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p087",
+      "label": null,
+      "kind": "shop",
+      "x": 167.21,
+      "y": 642.89,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        25,
+        105,
+        40,
+        110
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p088",
+      "label": null,
+      "kind": "residential",
+      "x": 256.4,
+      "y": 642.89,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        40,
+        105,
+        55,
+        115
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p089",
+      "label": "白塔寺",
+      "kind": "landmark",
+      "x": 345.59,
+      "y": 642.89,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        55,
+        105,
+        65,
+        115
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p090",
+      "label": "故宫文物修理中心",
+      "kind": "shop",
+      "x": 405.05,
+      "y": 642.89,
+      "w": 89.19,
+      "h": 65.41,
+      "fineBounds": [
+        65,
+        105,
+        80,
+        116
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p091",
+      "label": "景山",
+      "kind": "park",
+      "x": 523.97,
+      "y": 642.89,
+      "w": 148.65,
+      "h": 35.68,
+      "fineBounds": [
+        85,
+        105,
+        110,
+        111
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p092",
+      "label": null,
+      "kind": "residential",
+      "x": 702.35,
+      "y": 642.89,
+      "w": 89.19,
+      "h": 53.51,
+      "fineBounds": [
+        115,
+        105,
+        130,
+        114
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p093",
+      "label": "银河SOHO",
+      "kind": "landmark",
+      "x": 791.54,
+      "y": 642.89,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        130,
+        105,
+        140,
+        115
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p094",
+      "label": "麦可乐西式快餐店",
+      "kind": "shop",
+      "x": 851.0,
+      "y": 642.89,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        140,
+        105,
+        150,
+        115
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p095",
+      "label": null,
+      "kind": "residential",
+      "x": 910.46,
+      "y": 642.89,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        105,
+        160,
+        115
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p096",
+      "label": "玉渊潭公园",
+      "kind": "park",
+      "x": 167.21,
+      "y": 672.62,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        25,
+        110,
+        40,
+        120
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p097",
+      "label": "千百味小厨",
+      "kind": "shop",
+      "x": 999.65,
+      "y": 672.62,
+      "w": 29.73,
+      "h": 59.46,
+      "fineBounds": [
+        165,
+        110,
+        170,
+        120
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p098",
+      "label": "中国尊",
+      "kind": "landmark",
+      "x": 1029.38,
+      "y": 672.62,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        170,
+        110,
+        180,
+        120
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p099",
+      "label": "故宫",
+      "kind": "landmark",
+      "x": 553.7,
+      "y": 678.57,
+      "w": 89.19,
+      "h": 142.7,
+      "fineBounds": [
+        90,
+        111,
+        105,
+        135
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p100",
+      "label": "王府井",
+      "kind": "residential",
+      "x": 702.35,
+      "y": 696.4,
+      "w": 89.19,
+      "h": 124.87,
+      "fineBounds": [
+        115,
+        114,
+        130,
+        135
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p101",
+      "label": null,
+      "kind": "shop",
+      "x": 60.18,
+      "y": 702.35,
+      "w": 77.3,
+      "h": 59.46,
+      "fineBounds": [
+        7,
+        115,
+        20,
+        125
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p102",
+      "label": "金融街",
+      "kind": "residential",
+      "x": 256.4,
+      "y": 702.35,
+      "w": 148.65,
+      "h": 89.19,
+      "fineBounds": [
+        40,
+        115,
+        65,
+        130
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p103",
+      "label": "智化寺",
+      "kind": "landmark",
+      "x": 791.54,
+      "y": 702.35,
+      "w": 118.92,
+      "h": 59.46,
+      "fineBounds": [
+        130,
+        115,
+        150,
+        125
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p104",
+      "label": "中国大饭店",
+      "kind": "landmark",
+      "x": 910.46,
+      "y": 702.35,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        115,
+        160,
+        125
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p105",
+      "label": null,
+      "kind": "residential",
+      "x": 405.05,
+      "y": 708.3,
+      "w": 89.19,
+      "h": 83.24,
+      "fineBounds": [
+        65,
+        116,
+        80,
+        130
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p106",
+      "label": null,
+      "kind": "shop",
+      "x": 167.21,
+      "y": 732.08,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        25,
+        120,
+        40,
+        130
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p107",
+      "label": null,
+      "kind": "residential",
+      "x": 791.54,
+      "y": 761.81,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        130,
+        125,
+        145,
+        135
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p108",
+      "label": "日坛",
+      "kind": "park",
+      "x": 880.73,
+      "y": 761.81,
+      "w": 59.46,
+      "h": 89.19,
+      "fineBounds": [
+        145,
+        125,
+        155,
+        140
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p109",
+      "label": "国贸三期",
+      "kind": "landmark",
+      "x": 940.19,
+      "y": 761.81,
+      "w": 29.73,
+      "h": 89.19,
+      "fineBounds": [
+        155,
+        125,
+        160,
+        140
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p110",
+      "label": "中华世纪坛",
+      "kind": "landmark",
+      "x": 24.51,
+      "y": 791.54,
+      "w": 112.97,
+      "h": 59.46,
+      "fineBounds": [
+        1,
+        130,
+        20,
+        140
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p111",
+      "label": "军事博物馆",
+      "kind": "landmark",
+      "x": 167.21,
+      "y": 791.54,
+      "w": 118.92,
+      "h": 59.46,
+      "fineBounds": [
+        25,
+        130,
+        45,
+        140
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p112",
+      "label": "Kake甜品店",
+      "kind": "shop",
+      "x": 286.13,
+      "y": 791.54,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        45,
+        130,
+        60,
+        140
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p113",
+      "label": "LaRopa服装店",
+      "kind": "shop",
+      "x": 375.32,
+      "y": 791.54,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        60,
+        130,
+        75,
+        140
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p114",
+      "label": null,
+      "kind": "shop",
+      "x": 999.65,
+      "y": 791.54,
+      "w": 29.73,
+      "h": 59.46,
+      "fineBounds": [
+        165,
+        130,
+        170,
+        140
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p115",
+      "label": "CBD核心区",
+      "kind": "residential",
+      "x": 1029.38,
+      "y": 791.54,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        170,
+        130,
+        180,
+        140
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p116",
+      "label": "天安门",
+      "kind": "landmark",
+      "x": 523.97,
+      "y": 821.27,
+      "w": 148.65,
+      "h": 29.73,
+      "fineBounds": [
+        85,
+        135,
+        110,
+        140
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p117",
+      "label": "北京饭店",
+      "kind": "landmark",
+      "x": 702.35,
+      "y": 821.27,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        115,
+        135,
+        130,
+        140
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p118",
+      "label": null,
+      "kind": "shop",
+      "x": 791.54,
+      "y": 821.27,
+      "w": 89.19,
+      "h": 29.73,
+      "fineBounds": [
+        130,
+        135,
+        145,
+        140
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p119",
+      "label": null,
+      "kind": "shop",
+      "x": 78.02,
+      "y": 851.0,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        10,
+        140,
+        20,
+        150
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p120",
+      "label": null,
+      "kind": "landmark",
+      "x": 999.65,
+      "y": 851.0,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        165,
+        140,
+        175,
+        150
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p121",
+      "label": null,
+      "kind": "residential",
+      "x": 167.21,
+      "y": 880.73,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        25,
+        145,
+        40,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p122",
+      "label": null,
+      "kind": "residential",
+      "x": 286.13,
+      "y": 880.73,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        45,
+        145,
+        60,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p123",
+      "label": null,
+      "kind": "park",
+      "x": 375.32,
+      "y": 880.73,
+      "w": 29.73,
+      "h": 59.46,
+      "fineBounds": [
+        60,
+        145,
+        65,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p124",
+      "label": "国家大剧院",
+      "kind": "landmark",
+      "x": 405.05,
+      "y": 880.73,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        65,
+        145,
+        80,
+        155
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p125",
+      "label": "人民大会堂",
+      "kind": "shop",
+      "x": 494.24,
+      "y": 880.73,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        80,
+        145,
+        90,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p126",
+      "label": "天安门广场",
+      "kind": "landmark",
+      "x": 553.7,
+      "y": 880.73,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        90,
+        145,
+        105,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p127",
+      "label": "国家博物馆",
+      "kind": "shop",
+      "x": 642.89,
+      "y": 880.73,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        105,
+        145,
+        115,
+        155
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p128",
+      "label": null,
+      "kind": "residential",
+      "x": 702.35,
+      "y": 880.73,
+      "w": 118.92,
+      "h": 59.46,
+      "fineBounds": [
+        115,
+        145,
+        135,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p129",
+      "label": "街边绿地",
+      "kind": "park",
+      "x": 821.27,
+      "y": 880.73,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        135,
+        145,
+        145,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p130",
+      "label": null,
+      "kind": "residential",
+      "x": 910.46,
+      "y": 880.73,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        145,
+        160,
+        155
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p131",
+      "label": "莲花池公园",
+      "kind": "park",
+      "x": 24.51,
+      "y": 910.46,
+      "w": 112.97,
+      "h": 59.46,
+      "fineBounds": [
+        1,
+        150,
+        20,
+        160
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p132",
+      "label": null,
+      "kind": "residential",
+      "x": 999.65,
+      "y": 910.46,
+      "w": 59.46,
+      "h": 89.19,
+      "fineBounds": [
+        165,
+        150,
+        175,
+        165
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p133",
+      "label": null,
+      "kind": "shop",
+      "x": 167.21,
+      "y": 940.19,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        25,
+        155,
+        40,
+        165
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p134",
+      "label": null,
+      "kind": "shop",
+      "x": 910.46,
+      "y": 940.19,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        155,
+        160,
+        165
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p135",
+      "label": "麦可乐西式快餐店",
+      "kind": "shop",
+      "x": 78.02,
+      "y": 969.92,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        10,
+        160,
+        20,
+        170
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p136",
+      "label": "报国寺",
+      "kind": "landmark",
+      "x": 286.13,
+      "y": 969.92,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        45,
+        160,
+        60,
+        170
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p137",
+      "label": null,
+      "kind": "shop",
+      "x": 381.27,
+      "y": 969.92,
+      "w": 107.03,
+      "h": 47.57,
+      "fineBounds": [
+        61,
+        160,
+        79,
+        168
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p138",
+      "label": "大栅栏",
+      "kind": "residential",
+      "x": 523.97,
+      "y": 969.92,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        85,
+        160,
+        100,
+        170
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p139",
+      "label": "前门大街",
+      "kind": "residential",
+      "x": 613.16,
+      "y": 969.92,
+      "w": 89.19,
+      "h": 89.19,
+      "fineBounds": [
+        100,
+        160,
+        115,
+        175
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p140",
+      "label": null,
+      "kind": "shop",
+      "x": 732.08,
+      "y": 969.92,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        120,
+        160,
+        130,
+        165
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p141",
+      "label": "北京站",
+      "kind": "shop",
+      "x": 791.54,
+      "y": 969.92,
+      "w": 89.19,
+      "h": 47.57,
+      "fineBounds": [
+        130,
+        160,
+        145,
+        168
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p142",
+      "label": null,
+      "kind": "shop",
+      "x": 702.35,
+      "y": 969.92,
+      "w": 29.73,
+      "h": 29.73,
+      "fineBounds": [
+        115,
+        160,
+        120,
+        165
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p143",
+      "label": "北京西站",
+      "kind": "landmark",
+      "x": 167.21,
+      "y": 999.65,
+      "w": 89.19,
+      "h": 118.92,
+      "fineBounds": [
+        25,
+        165,
+        40,
+        185
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p144",
+      "label": "天坛公园",
+      "kind": "landmark",
+      "x": 702.35,
+      "y": 999.65,
+      "w": 89.19,
+      "h": 118.92,
+      "fineBounds": [
+        115,
+        165,
+        130,
+        185
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p145",
+      "label": null,
+      "kind": "shop",
+      "x": 910.46,
+      "y": 999.65,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        165,
+        160,
+        175
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p146",
+      "label": null,
+      "kind": "landmark",
+      "x": 999.65,
+      "y": 999.65,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        165,
+        165,
+        175,
+        175
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p147",
+      "label": "龙潭公园",
+      "kind": "park",
+      "x": 791.54,
+      "y": 1017.49,
+      "w": 89.19,
+      "h": 53.51,
+      "fineBounds": [
+        130,
+        168,
+        145,
+        177
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p148",
+      "label": "法源寺",
+      "kind": "landmark",
+      "x": 381.27,
+      "y": 1023.43,
+      "w": 107.03,
+      "h": 47.57,
+      "fineBounds": [
+        61,
+        169,
+        79,
+        177
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p149",
+      "label": null,
+      "kind": "residential",
+      "x": 42.34,
+      "y": 1029.38,
+      "w": 95.14,
+      "h": 118.92,
+      "fineBounds": [
+        4,
+        170,
+        20,
+        190
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p150",
+      "label": "牛街礼拜寺",
+      "kind": "landmark",
+      "x": 286.13,
+      "y": 1029.38,
+      "w": 89.19,
+      "h": 47.57,
+      "fineBounds": [
+        45,
+        170,
+        60,
+        178
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p151",
+      "label": "云裳汉服馆",
+      "kind": "shop",
+      "x": 523.97,
+      "y": 1029.38,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        85,
+        170,
+        95,
+        175
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p152",
+      "label": null,
+      "kind": "residential",
+      "x": 583.43,
+      "y": 1029.38,
+      "w": 29.73,
+      "h": 59.46,
+      "fineBounds": [
+        95,
+        170,
+        100,
+        180
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p153",
+      "label": "万达乐园",
+      "kind": "park",
+      "x": 523.97,
+      "y": 1059.11,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        85,
+        175,
+        95,
+        185
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p154",
+      "label": null,
+      "kind": "residential",
+      "x": 613.16,
+      "y": 1059.11,
+      "w": 29.73,
+      "h": 59.46,
+      "fineBounds": [
+        100,
+        175,
+        105,
+        185
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p155",
+      "label": null,
+      "kind": "landmark",
+      "x": 642.89,
+      "y": 1059.11,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        105,
+        175,
+        115,
+        180
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p156",
+      "label": null,
+      "kind": "residential",
+      "x": 910.46,
+      "y": 1059.11,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        150,
+        175,
+        160,
+        185
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p157",
+      "label": "北京欢乐谷",
+      "kind": "landmark",
+      "x": 999.65,
+      "y": 1059.11,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        165,
+        175,
+        175,
+        185
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p158",
+      "label": null,
+      "kind": "shop",
+      "x": 791.54,
+      "y": 1071.0,
+      "w": 89.19,
+      "h": 47.57,
+      "fineBounds": [
+        130,
+        177,
+        145,
+        185
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p159",
+      "label": null,
+      "kind": "shop",
+      "x": 286.13,
+      "y": 1076.95,
+      "w": 89.19,
+      "h": 41.62,
+      "fineBounds": [
+        45,
+        178,
+        60,
+        185
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p160",
+      "label": null,
+      "kind": "residential",
+      "x": 381.27,
+      "y": 1076.95,
+      "w": 107.03,
+      "h": 41.62,
+      "fineBounds": [
+        61,
+        178,
+        79,
+        185
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p161",
+      "label": "永定门",
+      "kind": "landmark",
+      "x": 583.43,
+      "y": 1088.84,
+      "w": 29.73,
+      "h": 29.73,
+      "fineBounds": [
+        95,
+        180,
+        100,
+        185
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p162",
+      "label": "面面俱到面馆",
+      "kind": "shop",
+      "x": 642.89,
+      "y": 1088.84,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        105,
+        180,
+        115,
+        185
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p163",
+      "label": null,
+      "kind": "shop",
+      "x": 167.21,
+      "y": 1118.57,
+      "w": 89.19,
+      "h": 47.57,
+      "fineBounds": [
+        25,
+        185,
+        40,
+        193
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p164",
+      "label": null,
+      "kind": "residential",
+      "x": 910.46,
+      "y": 1118.57,
+      "w": 59.46,
+      "h": 89.19,
+      "fineBounds": [
+        150,
+        185,
+        160,
+        200
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p165",
+      "label": "环球影城",
+      "kind": "landmark",
+      "x": 999.65,
+      "y": 1118.57,
+      "w": 59.46,
+      "h": 89.19,
+      "fineBounds": [
+        165,
+        185,
+        175,
+        200
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p166",
+      "label": "五环外农场",
+      "kind": "residential",
+      "x": 24.51,
+      "y": 1148.3,
+      "w": 112.97,
+      "h": 89.19,
+      "fineBounds": [
+        1,
+        190,
+        20,
+        205
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p167",
+      "label": null,
+      "kind": "residential",
+      "x": 256.4,
+      "y": 1148.3,
+      "w": 95.14,
+      "h": 59.46,
+      "fineBounds": [
+        40,
+        190,
+        56,
+        200
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p168",
+      "label": "丽泽SOHO",
+      "kind": "landmark",
+      "x": 351.54,
+      "y": 1148.3,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        56,
+        190,
+        66,
+        200
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p169",
+      "label": "R&M家居",
+      "kind": "shop",
+      "x": 411.0,
+      "y": 1148.3,
+      "w": 83.24,
+      "h": 59.46,
+      "fineBounds": [
+        66,
+        190,
+        80,
+        200
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p170",
+      "label": "陶然亭",
+      "kind": "park",
+      "x": 494.24,
+      "y": 1148.3,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        80,
+        190,
+        95,
+        200
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p171",
+      "label": null,
+      "kind": "shop",
+      "x": 613.16,
+      "y": 1148.3,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        100,
+        190,
+        110,
+        200
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p172",
+      "label": null,
+      "kind": "residential",
+      "x": 672.62,
+      "y": 1148.3,
+      "w": 178.38,
+      "h": 29.73,
+      "fineBounds": [
+        110,
+        190,
+        140,
+        195
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p173",
+      "label": null,
+      "kind": "shop",
+      "x": 851.0,
+      "y": 1148.3,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        140,
+        190,
+        150,
+        200
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p174",
+      "label": null,
+      "kind": "shop",
+      "x": 167.21,
+      "y": 1166.14,
+      "w": 89.19,
+      "h": 41.62,
+      "fineBounds": [
+        25,
+        193,
+        40,
+        200
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p175",
+      "label": null,
+      "kind": "shop",
+      "x": 672.62,
+      "y": 1178.03,
+      "w": 59.46,
+      "h": 29.73,
+      "fineBounds": [
+        110,
+        195,
+        120,
+        200
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p176",
+      "label": null,
+      "kind": "residential",
+      "x": 732.08,
+      "y": 1178.03,
+      "w": 118.92,
+      "h": 29.73,
+      "fineBounds": [
+        120,
+        195,
+        140,
+        200
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p177",
+      "label": "地铁车库",
+      "kind": "residential",
+      "x": 999.65,
+      "y": 1213.71,
+      "w": 59.46,
+      "h": 83.24,
+      "fineBounds": [
+        165,
+        201,
+        175,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p178",
+      "label": "世界公园",
+      "kind": "park",
+      "x": 24.51,
+      "y": 1237.49,
+      "w": 142.7,
+      "h": 59.46,
+      "fineBounds": [
+        1,
+        205,
+        25,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p179",
+      "label": "北京丰台站",
+      "kind": "landmark",
+      "x": 167.21,
+      "y": 1237.49,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        25,
+        205,
+        40,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p180",
+      "label": "丽泽商务区",
+      "kind": "residential",
+      "x": 256.4,
+      "y": 1237.49,
+      "w": 101.08,
+      "h": 59.46,
+      "fineBounds": [
+        40,
+        205,
+        57,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p181",
+      "label": null,
+      "kind": "shop",
+      "x": 357.48,
+      "y": 1237.49,
+      "w": 47.57,
+      "h": 59.46,
+      "fineBounds": [
+        57,
+        205,
+        65,
+        215
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p182",
+      "label": null,
+      "kind": "park",
+      "x": 405.05,
+      "y": 1237.49,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        65,
+        205,
+        75,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p183",
+      "label": "北京南站",
+      "kind": "landmark",
+      "x": 464.51,
+      "y": 1237.49,
+      "w": 118.92,
+      "h": 59.46,
+      "fineBounds": [
+        75,
+        205,
+        95,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p184",
+      "label": null,
+      "kind": "residential",
+      "x": 583.43,
+      "y": 1237.49,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        95,
+        205,
+        105,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p185",
+      "label": null,
+      "kind": "shop",
+      "x": 642.89,
+      "y": 1237.49,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        105,
+        205,
+        120,
+        215
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p186",
+      "label": null,
+      "kind": "shop",
+      "x": 732.08,
+      "y": 1237.49,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        120,
+        205,
+        130,
+        215
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p187",
+      "label": null,
+      "kind": "residential",
+      "x": 791.54,
+      "y": 1237.49,
+      "w": 89.19,
+      "h": 59.46,
+      "fineBounds": [
+        130,
+        205,
+        145,
+        215
+      ],
+      "orangeOutline": false
+    },
+    {
+      "id": "fig1-p188",
+      "label": null,
+      "kind": "shop",
+      "x": 880.73,
+      "y": 1237.49,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        145,
+        205,
+        155,
+        215
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p189",
+      "label": null,
+      "kind": "shop",
+      "x": 940.19,
+      "y": 1237.49,
+      "w": 59.46,
+      "h": 59.46,
+      "fineBounds": [
+        155,
+        205,
+        165,
+        215
+      ],
+      "orangeOutline": true
+    },
+    {
+      "id": "fig1-p190",
+      "label": null,
+      "kind": "park",
+      "x": 256.4,
+      "y": 1296.95,
+      "w": 386.49,
+      "h": 59.46,
+      "fineBounds": [
+        40,
+        215,
+        105,
+        225
+      ],
+      "orangeOutline": false
+    }
+  ],
+  "roads": [
+    {
+      "id": "r-14-5",
+      "cell": [
+        14,
+        5
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-5",
+      "cell": [
+        15,
+        5
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-5",
+      "cell": [
+        16,
+        5
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-5",
+      "cell": [
+        17,
+        5
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-5",
+      "cell": [
+        18,
+        5
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-5",
+      "cell": [
+        19,
+        5
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-5",
+      "cell": [
+        20,
+        5
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-5",
+      "cell": [
+        21,
+        5
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-5",
+      "cell": [
+        22,
+        5
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-5",
+      "cell": [
+        23,
+        5
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 167.21,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-6",
+      "cell": [
+        14,
+        6
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 196.94,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-6",
+      "cell": [
+        23,
+        6
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 196.94,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-7",
+      "cell": [
+        14,
+        7
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 226.67,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-7",
+      "cell": [
+        23,
+        7
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 226.67,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-8",
+      "cell": [
+        14,
+        8
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 256.4,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-8",
+      "cell": [
+        23,
+        8
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 256.4,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-9",
+      "cell": [
+        14,
+        9
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 286.13,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-9",
+      "cell": [
+        23,
+        9
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 286.13,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-10",
+      "cell": [
+        14,
+        10
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 315.86,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-10",
+      "cell": [
+        23,
+        10
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 315.86,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-11",
+      "cell": [
+        8,
+        11
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-11",
+      "cell": [
+        9,
+        11
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-11",
+      "cell": [
+        10,
+        11
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-11",
+      "cell": [
+        11,
+        11
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-11",
+      "cell": [
+        12,
+        11
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-11",
+      "cell": [
+        13,
+        11
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-11",
+      "cell": [
+        14,
+        11
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-11",
+      "cell": [
+        23,
+        11
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-11",
+      "cell": [
+        24,
+        11
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-11",
+      "cell": [
+        25,
+        11
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-11",
+      "cell": [
+        26,
+        11
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-11",
+      "cell": [
+        27,
+        11
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-11",
+      "cell": [
+        28,
+        11
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-11",
+      "cell": [
+        29,
+        11
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-30-11",
+      "cell": [
+        30,
+        11
+      ],
+      "kind": "road",
+      "x": 910.46,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-31-11",
+      "cell": [
+        31,
+        11
+      ],
+      "kind": "road",
+      "x": 940.19,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-11",
+      "cell": [
+        32,
+        11
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 345.59,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-12",
+      "cell": [
+        8,
+        12
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 375.32,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-12",
+      "cell": [
+        32,
+        12
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 375.32,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-13",
+      "cell": [
+        4,
+        13
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 405.05,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-5-13",
+      "cell": [
+        5,
+        13
+      ],
+      "kind": "road",
+      "x": 167.21,
+      "y": 405.05,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-6-13",
+      "cell": [
+        6,
+        13
+      ],
+      "kind": "road",
+      "x": 196.94,
+      "y": 405.05,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-7-13",
+      "cell": [
+        7,
+        13
+      ],
+      "kind": "road",
+      "x": 226.67,
+      "y": 405.05,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-13",
+      "cell": [
+        8,
+        13
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 405.05,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-13",
+      "cell": [
+        32,
+        13
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 405.05,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-14",
+      "cell": [
+        4,
+        14
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-14",
+      "cell": [
+        8,
+        14
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-14",
+      "cell": [
+        9,
+        14
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-14",
+      "cell": [
+        10,
+        14
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-14",
+      "cell": [
+        11,
+        14
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-14",
+      "cell": [
+        12,
+        14
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-14",
+      "cell": [
+        13,
+        14
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-14",
+      "cell": [
+        14,
+        14
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-14",
+      "cell": [
+        15,
+        14
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-14",
+      "cell": [
+        16,
+        14
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-14",
+      "cell": [
+        17,
+        14
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-14",
+      "cell": [
+        18,
+        14
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-14",
+      "cell": [
+        19,
+        14
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-14",
+      "cell": [
+        20,
+        14
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-14",
+      "cell": [
+        21,
+        14
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-14",
+      "cell": [
+        22,
+        14
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-14",
+      "cell": [
+        23,
+        14
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-14",
+      "cell": [
+        24,
+        14
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-14",
+      "cell": [
+        25,
+        14
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-14",
+      "cell": [
+        26,
+        14
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-14",
+      "cell": [
+        27,
+        14
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-14",
+      "cell": [
+        28,
+        14
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-14",
+      "cell": [
+        29,
+        14
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-14",
+      "cell": [
+        32,
+        14
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 434.78,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-15",
+      "cell": [
+        4,
+        15
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 464.51,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-15",
+      "cell": [
+        8,
+        15
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 464.51,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-15",
+      "cell": [
+        29,
+        15
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 464.51,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-15",
+      "cell": [
+        32,
+        15
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 464.51,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-16",
+      "cell": [
+        4,
+        16
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 494.24,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-16",
+      "cell": [
+        8,
+        16
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 494.24,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-16",
+      "cell": [
+        29,
+        16
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 494.24,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-16",
+      "cell": [
+        32,
+        16
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 494.24,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-17",
+      "cell": [
+        4,
+        17
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-17",
+      "cell": [
+        8,
+        17
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-17",
+      "cell": [
+        9,
+        17
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-17",
+      "cell": [
+        10,
+        17
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-17",
+      "cell": [
+        11,
+        17
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-17",
+      "cell": [
+        12,
+        17
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-17",
+      "cell": [
+        13,
+        17
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-17",
+      "cell": [
+        14,
+        17
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-17",
+      "cell": [
+        15,
+        17
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-17",
+      "cell": [
+        16,
+        17
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-17",
+      "cell": [
+        17,
+        17
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-17",
+      "cell": [
+        18,
+        17
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-17",
+      "cell": [
+        19,
+        17
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-17",
+      "cell": [
+        20,
+        17
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-17",
+      "cell": [
+        21,
+        17
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-17",
+      "cell": [
+        22,
+        17
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-17",
+      "cell": [
+        23,
+        17
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-17",
+      "cell": [
+        24,
+        17
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-17",
+      "cell": [
+        25,
+        17
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-17",
+      "cell": [
+        26,
+        17
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-17",
+      "cell": [
+        27,
+        17
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-17",
+      "cell": [
+        28,
+        17
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-17",
+      "cell": [
+        29,
+        17
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-17",
+      "cell": [
+        32,
+        17
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 523.97,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-18",
+      "cell": [
+        4,
+        18
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 553.7,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-18",
+      "cell": [
+        8,
+        18
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 553.7,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-18",
+      "cell": [
+        29,
+        18
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 553.7,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-18",
+      "cell": [
+        32,
+        18
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 553.7,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-19",
+      "cell": [
+        4,
+        19
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 583.43,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-19",
+      "cell": [
+        8,
+        19
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 583.43,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-19",
+      "cell": [
+        29,
+        19
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 583.43,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-19",
+      "cell": [
+        32,
+        19
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 583.43,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-20",
+      "cell": [
+        4,
+        20
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-5-20",
+      "cell": [
+        5,
+        20
+      ],
+      "kind": "road",
+      "x": 167.21,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-6-20",
+      "cell": [
+        6,
+        20
+      ],
+      "kind": "road",
+      "x": 196.94,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-7-20",
+      "cell": [
+        7,
+        20
+      ],
+      "kind": "road",
+      "x": 226.67,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-20",
+      "cell": [
+        8,
+        20
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-20",
+      "cell": [
+        9,
+        20
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-20",
+      "cell": [
+        10,
+        20
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-20",
+      "cell": [
+        11,
+        20
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-20",
+      "cell": [
+        12,
+        20
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-20",
+      "cell": [
+        13,
+        20
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-20",
+      "cell": [
+        14,
+        20
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-20",
+      "cell": [
+        15,
+        20
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-20",
+      "cell": [
+        16,
+        20
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-20",
+      "cell": [
+        17,
+        20
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-20",
+      "cell": [
+        18,
+        20
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-20",
+      "cell": [
+        19,
+        20
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-20",
+      "cell": [
+        20,
+        20
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-20",
+      "cell": [
+        21,
+        20
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-20",
+      "cell": [
+        22,
+        20
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-20",
+      "cell": [
+        23,
+        20
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-20",
+      "cell": [
+        24,
+        20
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-20",
+      "cell": [
+        25,
+        20
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-20",
+      "cell": [
+        26,
+        20
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-20",
+      "cell": [
+        27,
+        20
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-20",
+      "cell": [
+        28,
+        20
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-20",
+      "cell": [
+        29,
+        20
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-30-20",
+      "cell": [
+        30,
+        20
+      ],
+      "kind": "road",
+      "x": 910.46,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-31-20",
+      "cell": [
+        31,
+        20
+      ],
+      "kind": "road",
+      "x": 940.19,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-20",
+      "cell": [
+        32,
+        20
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 613.16,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-21",
+      "cell": [
+        4,
+        21
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 642.89,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-21",
+      "cell": [
+        16,
+        21
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 642.89,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-21",
+      "cell": [
+        22,
+        21
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 642.89,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-21",
+      "cell": [
+        32,
+        21
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 642.89,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-22",
+      "cell": [
+        4,
+        22
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 672.62,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-22",
+      "cell": [
+        16,
+        22
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 672.62,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-22",
+      "cell": [
+        22,
+        22
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 672.62,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-22",
+      "cell": [
+        32,
+        22
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 672.62,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-23",
+      "cell": [
+        4,
+        23
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 702.35,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-23",
+      "cell": [
+        16,
+        23
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 702.35,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-23",
+      "cell": [
+        22,
+        23
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 702.35,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-23",
+      "cell": [
+        32,
+        23
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 702.35,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-24",
+      "cell": [
+        4,
+        24
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 732.08,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-24",
+      "cell": [
+        16,
+        24
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 732.08,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-24",
+      "cell": [
+        22,
+        24
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 732.08,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-24",
+      "cell": [
+        32,
+        24
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 732.08,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-25",
+      "cell": [
+        4,
+        25
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 761.81,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-25",
+      "cell": [
+        16,
+        25
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 761.81,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-25",
+      "cell": [
+        22,
+        25
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 761.81,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-25",
+      "cell": [
+        32,
+        25
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 761.81,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-26",
+      "cell": [
+        4,
+        26
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 791.54,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-26",
+      "cell": [
+        16,
+        26
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 791.54,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-26",
+      "cell": [
+        22,
+        26
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 791.54,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-26",
+      "cell": [
+        32,
+        26
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 791.54,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-27",
+      "cell": [
+        4,
+        27
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 821.27,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-27",
+      "cell": [
+        16,
+        27
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 821.27,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-27",
+      "cell": [
+        22,
+        27
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 821.27,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-27",
+      "cell": [
+        32,
+        27
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 821.27,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-28",
+      "cell": [
+        4,
+        28
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-5-28",
+      "cell": [
+        5,
+        28
+      ],
+      "kind": "road",
+      "x": 167.21,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-6-28",
+      "cell": [
+        6,
+        28
+      ],
+      "kind": "road",
+      "x": 196.94,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-7-28",
+      "cell": [
+        7,
+        28
+      ],
+      "kind": "road",
+      "x": 226.67,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-28",
+      "cell": [
+        8,
+        28
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-28",
+      "cell": [
+        9,
+        28
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-28",
+      "cell": [
+        10,
+        28
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-28",
+      "cell": [
+        11,
+        28
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-28",
+      "cell": [
+        12,
+        28
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-28",
+      "cell": [
+        13,
+        28
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-28",
+      "cell": [
+        14,
+        28
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-28",
+      "cell": [
+        15,
+        28
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-28",
+      "cell": [
+        16,
+        28
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-28",
+      "cell": [
+        17,
+        28
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-28",
+      "cell": [
+        18,
+        28
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-28",
+      "cell": [
+        19,
+        28
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-28",
+      "cell": [
+        20,
+        28
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-28",
+      "cell": [
+        21,
+        28
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-28",
+      "cell": [
+        22,
+        28
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-28",
+      "cell": [
+        23,
+        28
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-28",
+      "cell": [
+        24,
+        28
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-28",
+      "cell": [
+        25,
+        28
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-28",
+      "cell": [
+        26,
+        28
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-28",
+      "cell": [
+        27,
+        28
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-28",
+      "cell": [
+        28,
+        28
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-28",
+      "cell": [
+        29,
+        28
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-30-28",
+      "cell": [
+        30,
+        28
+      ],
+      "kind": "road",
+      "x": 910.46,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-31-28",
+      "cell": [
+        31,
+        28
+      ],
+      "kind": "road",
+      "x": 940.19,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-28",
+      "cell": [
+        32,
+        28
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 851.0,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-29",
+      "cell": [
+        4,
+        29
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 880.73,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-29",
+      "cell": [
+        8,
+        29
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 880.73,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-29",
+      "cell": [
+        29,
+        29
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 880.73,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-29",
+      "cell": [
+        32,
+        29
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 880.73,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-30",
+      "cell": [
+        4,
+        30
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 910.46,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-30",
+      "cell": [
+        8,
+        30
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 910.46,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-30",
+      "cell": [
+        29,
+        30
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 910.46,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-30",
+      "cell": [
+        32,
+        30
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 910.46,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-31",
+      "cell": [
+        4,
+        31
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-31",
+      "cell": [
+        8,
+        31
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-31",
+      "cell": [
+        9,
+        31
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-31",
+      "cell": [
+        10,
+        31
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-31",
+      "cell": [
+        11,
+        31
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-31",
+      "cell": [
+        12,
+        31
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-31",
+      "cell": [
+        13,
+        31
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-31",
+      "cell": [
+        14,
+        31
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-31",
+      "cell": [
+        15,
+        31
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-31",
+      "cell": [
+        16,
+        31
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-31",
+      "cell": [
+        17,
+        31
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-31",
+      "cell": [
+        18,
+        31
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-31",
+      "cell": [
+        19,
+        31
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-31",
+      "cell": [
+        20,
+        31
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-31",
+      "cell": [
+        21,
+        31
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-31",
+      "cell": [
+        22,
+        31
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-31",
+      "cell": [
+        23,
+        31
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-31",
+      "cell": [
+        24,
+        31
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-31",
+      "cell": [
+        25,
+        31
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-31",
+      "cell": [
+        26,
+        31
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-31",
+      "cell": [
+        27,
+        31
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-31",
+      "cell": [
+        28,
+        31
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-31",
+      "cell": [
+        29,
+        31
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-31",
+      "cell": [
+        32,
+        31
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 940.19,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-32",
+      "cell": [
+        4,
+        32
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 969.92,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-32",
+      "cell": [
+        8,
+        32
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 969.92,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-32",
+      "cell": [
+        16,
+        32
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 969.92,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-32",
+      "cell": [
+        29,
+        32
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 969.92,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-32",
+      "cell": [
+        32,
+        32
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 969.92,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-33",
+      "cell": [
+        4,
+        33
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 999.65,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-33",
+      "cell": [
+        8,
+        33
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 999.65,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-33",
+      "cell": [
+        16,
+        33
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 999.65,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-33",
+      "cell": [
+        29,
+        33
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 999.65,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-33",
+      "cell": [
+        32,
+        33
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 999.65,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-34",
+      "cell": [
+        4,
+        34
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 1029.38,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-34",
+      "cell": [
+        8,
+        34
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 1029.38,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-34",
+      "cell": [
+        16,
+        34
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 1029.38,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-34",
+      "cell": [
+        29,
+        34
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 1029.38,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-34",
+      "cell": [
+        32,
+        34
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 1029.38,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-35",
+      "cell": [
+        4,
+        35
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 1059.11,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-35",
+      "cell": [
+        8,
+        35
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 1059.11,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-35",
+      "cell": [
+        16,
+        35
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 1059.11,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-35",
+      "cell": [
+        29,
+        35
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 1059.11,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-35",
+      "cell": [
+        32,
+        35
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 1059.11,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-36",
+      "cell": [
+        4,
+        36
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 1088.84,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-36",
+      "cell": [
+        8,
+        36
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 1088.84,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-36",
+      "cell": [
+        16,
+        36
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 1088.84,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-36",
+      "cell": [
+        29,
+        36
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 1088.84,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-36",
+      "cell": [
+        32,
+        36
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 1088.84,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-37",
+      "cell": [
+        4,
+        37
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-37",
+      "cell": [
+        8,
+        37
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-37",
+      "cell": [
+        9,
+        37
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-37",
+      "cell": [
+        10,
+        37
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-37",
+      "cell": [
+        11,
+        37
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-37",
+      "cell": [
+        12,
+        37
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-37",
+      "cell": [
+        13,
+        37
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-37",
+      "cell": [
+        14,
+        37
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-37",
+      "cell": [
+        15,
+        37
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-37",
+      "cell": [
+        16,
+        37
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-37",
+      "cell": [
+        17,
+        37
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-37",
+      "cell": [
+        18,
+        37
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-37",
+      "cell": [
+        19,
+        37
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-37",
+      "cell": [
+        20,
+        37
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-37",
+      "cell": [
+        21,
+        37
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-37",
+      "cell": [
+        22,
+        37
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-37",
+      "cell": [
+        23,
+        37
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-37",
+      "cell": [
+        24,
+        37
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-37",
+      "cell": [
+        25,
+        37
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-37",
+      "cell": [
+        26,
+        37
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-37",
+      "cell": [
+        27,
+        37
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-37",
+      "cell": [
+        28,
+        37
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-37",
+      "cell": [
+        29,
+        37
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-37",
+      "cell": [
+        32,
+        37
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 1118.57,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-38",
+      "cell": [
+        4,
+        38
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 1148.3,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-38",
+      "cell": [
+        19,
+        38
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 1148.3,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-38",
+      "cell": [
+        32,
+        38
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 1148.3,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-39",
+      "cell": [
+        4,
+        39
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 1178.03,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-39",
+      "cell": [
+        19,
+        39
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 1178.03,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-39",
+      "cell": [
+        32,
+        39
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 1178.03,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-4-40",
+      "cell": [
+        4,
+        40
+      ],
+      "kind": "road",
+      "x": 137.48,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-5-40",
+      "cell": [
+        5,
+        40
+      ],
+      "kind": "road",
+      "x": 167.21,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-6-40",
+      "cell": [
+        6,
+        40
+      ],
+      "kind": "road",
+      "x": 196.94,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-7-40",
+      "cell": [
+        7,
+        40
+      ],
+      "kind": "road",
+      "x": 226.67,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-8-40",
+      "cell": [
+        8,
+        40
+      ],
+      "kind": "road",
+      "x": 256.4,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-9-40",
+      "cell": [
+        9,
+        40
+      ],
+      "kind": "road",
+      "x": 286.13,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-10-40",
+      "cell": [
+        10,
+        40
+      ],
+      "kind": "road",
+      "x": 315.86,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-11-40",
+      "cell": [
+        11,
+        40
+      ],
+      "kind": "road",
+      "x": 345.59,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-12-40",
+      "cell": [
+        12,
+        40
+      ],
+      "kind": "road",
+      "x": 375.32,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-13-40",
+      "cell": [
+        13,
+        40
+      ],
+      "kind": "road",
+      "x": 405.05,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-14-40",
+      "cell": [
+        14,
+        40
+      ],
+      "kind": "road",
+      "x": 434.78,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-15-40",
+      "cell": [
+        15,
+        40
+      ],
+      "kind": "road",
+      "x": 464.51,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-16-40",
+      "cell": [
+        16,
+        40
+      ],
+      "kind": "road",
+      "x": 494.24,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-17-40",
+      "cell": [
+        17,
+        40
+      ],
+      "kind": "road",
+      "x": 523.97,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-18-40",
+      "cell": [
+        18,
+        40
+      ],
+      "kind": "road",
+      "x": 553.7,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-19-40",
+      "cell": [
+        19,
+        40
+      ],
+      "kind": "road",
+      "x": 583.43,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-20-40",
+      "cell": [
+        20,
+        40
+      ],
+      "kind": "road",
+      "x": 613.16,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-21-40",
+      "cell": [
+        21,
+        40
+      ],
+      "kind": "road",
+      "x": 642.89,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-22-40",
+      "cell": [
+        22,
+        40
+      ],
+      "kind": "road",
+      "x": 672.62,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-23-40",
+      "cell": [
+        23,
+        40
+      ],
+      "kind": "road",
+      "x": 702.35,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-24-40",
+      "cell": [
+        24,
+        40
+      ],
+      "kind": "road",
+      "x": 732.08,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-25-40",
+      "cell": [
+        25,
+        40
+      ],
+      "kind": "road",
+      "x": 761.81,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-26-40",
+      "cell": [
+        26,
+        40
+      ],
+      "kind": "road",
+      "x": 791.54,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-27-40",
+      "cell": [
+        27,
+        40
+      ],
+      "kind": "road",
+      "x": 821.27,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-28-40",
+      "cell": [
+        28,
+        40
+      ],
+      "kind": "road",
+      "x": 851.0,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-29-40",
+      "cell": [
+        29,
+        40
+      ],
+      "kind": "road",
+      "x": 880.73,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-30-40",
+      "cell": [
+        30,
+        40
+      ],
+      "kind": "road",
+      "x": 910.46,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-31-40",
+      "cell": [
+        31,
+        40
+      ],
+      "kind": "road",
+      "x": 940.19,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    },
+    {
+      "id": "r-32-40",
+      "cell": [
+        32,
+        40
+      ],
+      "kind": "road",
+      "x": 969.92,
+      "y": 1207.76,
+      "w": 29.73,
+      "h": 29.73
+    }
+  ]
+}

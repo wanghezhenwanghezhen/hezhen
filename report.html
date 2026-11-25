@@ -1,0 +1,36 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#e8e1f3"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E✳%3C/text%3E%3C/svg%3E"><title>王鹤臻</title><meta property="og:title" content="王鹤臻"><meta name="twitter:title" content="王鹤臻">
+  <link rel="stylesheet" crossorigin href="/hezhen/assets/defense-e4d7e875d060.css">
+<script defer src="./project-progress.js" data-project="world"></script></head><body class="mode-paper defense"><div class="spotlight"></div><div id="app"><header class="reading-nav"><span class="wordmark"><span class="wordmark-world">world</span> QYDL <span class="wordmark-star" aria-hidden="true">✳</span></span><nav aria-label="汇报阅读导航"><a data-reading-back href="./">老虎机GO！</a><a href="#route-directory">目录</a></nav></header><main><div class="motion-zone" data-zone="opening"><div class="motion-surface"><section class="hero" data-board-shell><div class="hero-copy"><span class="eyebrow">a living world of growing</span><h1>A living world.<br>A growing story.</h1><div class="cn">叙事性设计，在游戏中生长的故事世界</div><p>王鹤臻 / 26.11.10</p></div><div class="scene-wrap" id="city-board" style="translate:none"><iframe data-report-board src="./projects/paper-city/index.html?source=5313&amp;embed=1" title="千语折纸城市行棋，掷骰、拖动旋转与缩放" allow="fullscreen" allowfullscreen style="display:block;width:100%;height:100%;border:0;background:transparent"></iframe><span class="status screen-reader-only" aria-live="polite"></span></div></section></div></div></main></div><script type="module">function loadReportAfterBoard(load) {
+  const frame = document.querySelector('[data-report-board]');
+  if (!frame || !matchMedia('(max-width: 767px)').matches || location.hash) {
+    return load();
+  }
+  let loading;
+  const events = ['touchstart', 'pointerdown', 'keydown', 'wheel', 'scroll'];
+  function start() {
+    if (loading) return loading;
+    clearTimeout(timer);
+    window.removeEventListener('message', onBoard);
+    for (const event of events) window.removeEventListener(event, onInteraction, true);
+    loading = load().then(() => {
+      const id = location.hash.slice(1);
+      if (id) document.getElementById(id)?.scrollIntoView();
+    });
+    return loading;
+  }
+  function onBoard(event) {
+    if (event.origin === location.origin && event.source === frame.contentWindow &&
+        event.data?.type === 'hezhen:board-ready') start();
+  }
+  function onInteraction(event) {
+    // Internal iframe gestures have their own document. A touch or scroll
+    // outside the game requests the rest of the report immediately.
+    if (event.type !== 'scroll' || window.scrollY > 0) start();
+  }
+  const timer = setTimeout(start, 8000);
+  for (const event of events) window.addEventListener(event, onInteraction, {capture:true, passive:true});
+  window.addEventListener('message', onBoard);
+  frame.contentWindow?.postMessage({type:'hezhen:query-state'}, location.origin);
+}
+
+loadReportAfterBoard(() => import("/hezhen/assets/defense-fbd762b1c91a.js"));</script></body></html>

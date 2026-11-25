@@ -1,0 +1,12 @@
+{
+  "task": "New PNG tear-ticket comparison preview",
+  "checkedAt": "2026-11-09T15:31:03.5917091+08:00",
+  "sourcePng": "C:/Users/whz/AppData/Local/Temp/codex-clipboard-b6c11dfe-8576-41ff-a4cf-5ca5c508dc80.png",
+  "sha256": "9ba51a80780520ec672c9d3110b8f57a38f6aecc7e31f042a764b033a3dd5be9",
+  "exactCopy": true,
+  "scriptSyntax": "PASS",
+  "delivery": "Standalone HTML with relative SVG/PNG assets; no build required",
+  "projectBuild": "Unavailable: migrated project has no local node_modules/vite",
+  "browserVisualVerification": "Not performed; prior localhost access policy restriction unresolved",
+  "scope": "Comparison preview only; main report cards unchanged"
+}
